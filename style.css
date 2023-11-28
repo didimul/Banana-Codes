@@ -1,0 +1,63 @@
+html {
+    background-color: orange;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    user-select: none;
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#txt {
+    position: absolute;
+    top: -10px;
+    text-align: center;
+}
+
+.txt-err {
+    display: none;
+}
+
+.err {
+    display: none;
+}
+
+.err-show {
+    position: absolute;
+    text-align: center;
+    top: -10px;
+    display: block;
+}
+
+#inp {
+    text-align: center;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 90px;
+}
+
+.inp-err {
+    display: none;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    user-select: none;
+}
+
+.nav-hide {
+    display: none;
+}
+
+.nav h3 {
+    margin: 20px;
+    cursor: pointer;
+    font-size: 90px;
+}
