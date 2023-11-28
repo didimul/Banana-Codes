@@ -4,7 +4,7 @@ Since this is a test version, it supports only Russian, but other languages will
 The program will be developed and updates will be constantly released.
 A wonderful For-My function will be added, with which you can connect Banana Codes to your project.
 
-Alpha version (1241123): Yellow background, text in line, Russian only
+Alpha version (1241123): Yellow background, numbers in line, Russian only
 
 [ru] (1241123)
 Banana Codes - это программа, написанная на JavaScript. Banana Codes - это программа, которая запоминает ваш пароль и в следующий раз запросит тот же пароль, который вы ввели.
@@ -12,4 +12,4 @@ Banana Codes - это программа, написанная на JavaScript. 
 Программа будет развиваться, и постоянно будут выходить обновления.
 Будет добавлена замечательная функция For-My, с помощью которой вы сможете подключать Banana Codes к своему проекту.
 
-Альфа-версия (1241123): Желтый фон, текст в строке, только на русском языке
+Альфа-версия (1241123): Желтый фон, цифры в линию, только на русском языке
